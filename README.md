@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 
 ###
 
-
-
-
 <h1>🏆 Hacktoberfest Digital Badges: </h1>
 
 [![Screenshot 2024-11-09 170659](https://github.com/user-attachments/assets/c6d490bd-3a81-42f2-8949-30502e1274b5)](https://www.holopin.io/@himanshukumar025#)
