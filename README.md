@@ -27,6 +27,51 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<h1>🏆 GSSoC'24-Extd Digital Badges: </h1>
+<table>
+          <caption >Girl Script Summer of Code-2024 Extended</caption>
+          <tr align="center" >
+                     <td style= "width=auto">
+                                  <img src="" alt="Explorer Badge" width="80">
+                                  <br>
+                                  <strong>Explorer Badge</strong>
+                      </td>
+                       <td style= "width=auto">
+                                  <img src="" alt="Adventurer Badge" width="80">
+                                  <br>
+                                  <strong>Adventurer Badge</strong>
+                      </td>
+                     <td style= "width=auto">
+                                  <img src="" alt="Trailblazer Badge" width="80">
+                                  <br>
+                                  <strong>Trailblazer Badge</strong>
+                      </td>
+                       <td style= "width=auto">
+                                  <img src="" alt="Summit Seeker Badge" width="80">
+                                  <br>
+                                  <strong>Summit Seeker Badge</strong>
+                      </td>
+                       <td style= "width=auto">
+                                  <img src="" alt="Champion Badge" width="80">
+                                  <br>
+                                  <strong>Champion Badge</strong>
+                      </td>
+          </tr>
+          <tr align="center" >
+                   <td style= "width=auto">
+                              <img src="" alt="Git Explorer Badge" width="80">
+                              <br>
+                              <strong>Git Explorer Badge</strong>
+                    </td>
+                    <td style= "width=auto">
+                              <img src="" alt="Pull Expert Badge" width="80">
+                              <br>
+                              <strong>Pull Expert Badge</strong>                              
+                    </td>
+          </tr>
+ </table>
+
+
 
 <h1>🏆 Hacktoberfest Digital Badges: </h1>
 
