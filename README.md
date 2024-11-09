@@ -14,19 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  <div align="center">
+  
+  <img height="158em"   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshu-kumar025&theme=rose_pine"   alt="linkedin logo"  />
+  <img height="158em"   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himanshu-kumar025&theme=rose_pine"  alt="linkedin logo"  />
+  <img height="160em"   src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himanshu-kumar025&theme=rose_pine"  alt="linkedin logo"  />
+  <img height="160em"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himanshu-kumar025&theme=rose_pine"   alt="linkedin logo"  />
+  <img height="160em"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Himanshu-kumar025&theme=rose_pine&utcOffset=8"   alt="linkedin logo"  />
+
+</div>
+
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/himanshu-kumar-425aba292/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="himanshukumar0199" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="72" height="32" alt="discord logo"  />
-  </a>
-  <a href="hk1832141@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="32" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 
@@ -41,6 +42,44 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<br>
+<h3> Languages, Tools and Technologies 🚀 </h3>
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Frameworks</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
+</tr>
+
+</table>
+<br>
+
+
+
+
+
 <h1>🏆 GSSoC'24-Extd Digital Badges: </h1>
 <table>
           <caption >Girl Script Summer of Code-2024 Extended</caption>
