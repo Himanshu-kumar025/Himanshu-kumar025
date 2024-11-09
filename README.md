@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-kumar025&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu-kumar025&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Himanshu-kumar025&locale=en&mode=weekly&theme=rose_pine&hide_border=false&border_radius=10&order=3" height="155" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Himanshu-kumar025&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Himanshu-kumar025&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-kumar025&radius=16&theme=redical&area=true&order=5&point=red" height="300" alt="activity-graph graph"  />
 </div>
 
