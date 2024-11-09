@@ -46,41 +46,41 @@ Here are some ideas to get you started:
           <caption >Girl Script Summer of Code-2024 Extended</caption>
           <tr align="center" >
                      <td style= "width=auto">
-                                  <img src="" alt="Explorer Badge" width="80">
+                                  <img src="https://github.com/Himanshu-kumar025/Himanshu-kumar025/blob/main/Himanshu-kumar025.png" alt="Explorer Badge" width="80">
                                   <br>
                                   <strong>Explorer Badge</strong>
                       </td>
                        <td style= "width=auto">
-                                  <img src="" alt="Adventurer Badge" width="80">
+                                  <img src="https://github.com/Himanshu-kumar025/Himanshu-kumar025/blob/main/2.png" alt="Adventurer Badge" width="80">
                                   <br>
                                   <strong>Adventurer Badge</strong>
                       </td>
                      <td style= "width=auto">
-                                  <img src="" alt="Trailblazer Badge" width="80">
+                                  <img src="https://github.com/Himanshu-kumar025/Himanshu-kumar025/blob/main/3.png" alt="Trailblazer Badge" width="80">
                                   <br>
                                   <strong>Trailblazer Badge</strong>
                       </td>
                        <td style= "width=auto">
-                                  <img src="" alt="Summit Seeker Badge" width="80">
+                                  <img src="https://github.com/Himanshu-kumar025/Himanshu-kumar025/blob/main/4.png" alt="Summit Seeker Badge" width="80">
                                   <br>
                                   <strong>Summit Seeker Badge</strong>
                       </td>
                        <td style= "width=auto">
-                                  <img src="" alt="Champion Badge" width="80">
+                                  <img src="https://github.com/Himanshu-kumar025/Himanshu-kumar025/blob/main/5.png" alt="Champion Badge" width="80">
                                   <br>
                                   <strong>Champion Badge</strong>
                       </td>
           </tr>
           <tr align="center" >
                    <td style= "width=auto">
-                              <img src="" alt="Git Explorer Badge" width="80">
+                              <img src="https://github.com/Himanshu-kumar025/Himanshu-kumar025/blob/main/postman.png" alt="Git Explorer Badge" width="80">
                               <br>
-                              <strong>Git Explorer Badge</strong>
+                              <strong>Postman Badge</strong>
                     </td>
                     <td style= "width=auto">
-                              <img src="" alt="Pull Expert Badge" width="80">
+                              <img src="https://github.com/Himanshu-kumar025/Himanshu-kumar025/blob/main/badge.jpg" alt="Pull Expert Badge" width="80">
                               <br>
-                              <strong>Pull Expert Badge</strong>                              
+                              <strong>Git Explorer Badge</strong>                              
                     </td>
           </tr>
  </table>
