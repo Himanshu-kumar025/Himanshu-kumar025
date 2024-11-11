@@ -14,7 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/himanshu-kumar-425aba292" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="83" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/wDGfvDVN" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="83" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/aashu_025" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="83" height="40" alt="telegram logo"  />
+  </a>
+  <a href="hk1832141@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="83" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
+###
 
   <div align="center">
   
