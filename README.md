@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+ <img     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   />
+</div>
+
+
+<div align="center">
   <img    width="150px"  src="https://visitor-badge.laobi.icu/badge?page_id=Himanshu-kumar025.Himanshu-kumar025&left_color=purple&left_text=Profile%20Visit&style=for-the-badge"   />
 </div>
 
