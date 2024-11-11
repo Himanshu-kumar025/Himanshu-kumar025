@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  <img    width="200px"  src="https://komarev.com/ghpvc/?username=neeru24&&style=for-the-badge"   />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/himanshu-kumar-425aba292" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="83" height="40" alt="linkedin logo"  />
   </a>
