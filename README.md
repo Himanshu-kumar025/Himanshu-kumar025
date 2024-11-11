@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img    width="200px"  src="https://komarev.com/ghpvc/?username=neeru24&&style=for-the-badge"   />
+  <img    width="150px"  src="https://visitor-badge.laobi.icu/badge?page_id=Himanshu-kumar025.Himanshu-kumar025&left_color=purple&left_text=Profile%20Visit"   />
 </div>
 
 ###
