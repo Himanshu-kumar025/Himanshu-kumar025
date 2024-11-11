@@ -27,6 +27,13 @@ Here are some ideas to get you started:
   <a href="hk1832141@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="83" height="40" alt="gmail logo"  />
   </a>
+
+  <a href="https://www.leetcode.com/himanshu-kumar025" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshu-kumar025" width="83" height="40" alt="leetcode logo"  />
+  </a>
+
+
+
 </div>
 
 ###
