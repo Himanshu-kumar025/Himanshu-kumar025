@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🌱 I’m currently learning Backend Development.
 
+- 👯 I’m looking to collaborate on Front-End Web-Development Projects.
+- 
+- 📫 How to reach me:  <a href="mailto:hk1832141@gmail.com" target="_blank">Mail Me</a> Or Connect on  <a href="https://www.linkedin.com/in/himanshu-kumar-425aba292" target="_blank">Linked  In</a>.
+- 
+- 💬 Ask me about Web Development .
 
 
 <div align="center">
