@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 <br>
 🌱 I’m currently learning Backend Development.
-<br><br><br>
+<br><br>
 👯 I’m looking to collaborate on Front-End Web-Development Projects.
- <br><br><br>
+ <br><br>
 📫 How to reach me:  <a href="mailto:hk1832141@gmail.com" target="_blank">Mail Me</a> Or Connect on  <a href="https://www.linkedin.com/in/himanshu-kumar-425aba292" target="_blank">Linked  In</a>.
-<br><br><br>
+<br><br>
 💬 Ask me about Web Development .
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--  Github States   -->
 
-<h1>Githubs States:</h1>
+<h1>Githubs Stats:</h1>
 
 
 <div align="center">
