@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--About me : summary -->
 
-<h1>👨‍💻About me:</h1>
-<h3 align="start">Hello Guys , I'm a Full-Stack Developer and a Open source contributor Passinate about to learning new tech.</h3>
-<h3 align="center"> Currently, I'm focusing on DSA (Java) and enhancing my skills in scalable system architecture.</h3>
+<h2>👨‍💻About me:</h2>
+<h4 align="center">Hello Guys , I'm a Full-Stack Developer and a Open source contributor Passinate about to learning new tech.</h4>
+<h4 align="center"> Currently, I'm focusing on DSA (Java) and enhancing my skills in scalable system architecture.</h4>
 <br>
 <span  >
 <img     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  align="right" height="300px" width="300px" valign="top"/> 
