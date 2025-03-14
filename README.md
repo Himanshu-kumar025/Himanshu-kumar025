@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <!--About me : summary -->
 
 <h1>About me:</h1>
-<h3 align="center">Hello Guys , I'm a front-end Developer and a Open source contributor Passinate about to learning new tech .  </h3>
+<h3 align="center">Hello Guys , I'm a Full-Stack Developer and a Open source contributor Passinate about to learning new tech .  </h3>
 <h3 align="center">Currently I am working on backend .</h3>
 <br>
 <span  >
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </span>	
 
 <br>
-🌱 I’m currently learning Backend Development.
+🌱 I’m currently learning Java(DSA).
 <br><br>
 👯 I’m looking to collaborate on Front-End Web-Development Projects.
  <br><br>
