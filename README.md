@@ -92,12 +92,16 @@ Here are some ideas to get you started:
 <table >
 <tr >
 	<td ><strong>Programming Languages</strong></td>
-	<td  ><img height=40 src = "https://skillicons.dev/icons?i=c,js&theme=dark"></td>
+	<td  ><img height=40 src = "https://skillicons.dev/icons?i=c,java,js&theme=dark"></td>
 </tr>
 	
 <tr>
-	<td><strong>Technical Skills</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css" ></td>
+	<td><strong>Front-End Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,react,vite,redux&theme=dark" ></td>
+</tr>
+<tr>
+		<td><strong>Back-End Development</strong></td>
+		<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"></td>
 </tr>
 
 <tr>
