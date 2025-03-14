@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--Languages and techniology info-->
 <details>
-<summary><h2>🚀Languages, Tools and Technologies</h2></summary>
+<summary>🚀Languages, Tools and Technologies<summary>
    
 <div align="center">
 	
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 
 <details>
 
-<summary ><h2>📊Githubs Stats:</h2></summary>
+<summary >📊Githubs Stats:</summary>
 
 
 <div align="center">
@@ -167,7 +167,7 @@ Here are some ideas to get you started:
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--  GSSOC'24 Badges   -->
 <details>
-	<summary><h2>🏆 GSSoC'24-Extd Digital Badges: </h2></summary>
+	<summary>🏆 GSSoC'24-Extd Digital Badges: </summary>
 <table>
           <caption >Girl Script Summer of Code-2024 Extended</caption>
           <tr align="center" >
@@ -216,7 +216,7 @@ Here are some ideas to get you started:
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--   Hactoberfest badges  -->
 <details>
-<summary><h2>🏆 Hacktoberfest Digital Badges: </h2></summary>
+<summary>🏆 Hacktoberfest Digital Badges: </summary>
 
 [![Screenshot 2024-11-09 170659](https://github.com/user-attachments/assets/c6d490bd-3a81-42f2-8949-30502e1274b5)](https://www.holopin.io/@himanshukumar025#)
 </details>
