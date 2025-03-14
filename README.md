@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--About me : summary -->
 
-<h1>About me:</h1>
-<h3 align="center">Hello Guys , I'm a Full-Stack Developer and a Open source contributor Passinate about to learning new tech .  </h3>
-<h3 align="center">Currently I am working on backend .</h3>
+<h1>👨‍💻About me:</h1>
+<h3 align="start">Hello Guys , I'm a Full-Stack Developer and a Open source contributor Passinate about to learning new tech.</h3>
+<h3 align="center"> Currently, I'm focusing on DSA (Java) and enhancing my skills in scalable system architecture.</h3>
 <br>
 <span  >
 <img     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  align="right" height="300px" width="300px" valign="top"/> 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--Languages and techniology info-->
 <details>
-<h1> Languages, Tools and Technologies 🚀 </h1>
+<summary><h2>🚀Languages, Tools and Technologies</h2></summary>
    
 <div align="center">
 	
@@ -131,7 +131,9 @@ Here are some ideas to get you started:
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--  Github States   -->
 
-<h1>Githubs Stats:</h1>
+<details>
+
+<summary ><h2>📊Githubs Stats:</h2></summary>
 
 
 <div align="center">
@@ -157,14 +159,15 @@ Here are some ideas to get you started:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-kumar025&radius=16&theme=redical&area=true&order=5&point=red" height="300" alt="activity-graph graph"  />
 
 </div>
+</details>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--  GSSOC'24 Badges   -->
-
-<h1>🏆 GSSoC'24-Extd Digital Badges: </h1>
+<details>
+	<summary><h2>🏆 GSSoC'24-Extd Digital Badges: </h2></summary>
 <table>
           <caption >Girl Script Summer of Code-2024 Extended</caption>
           <tr align="center" >
@@ -207,11 +210,13 @@ Here are some ideas to get you started:
                     </td>
           </tr>
  </table>
+	</details>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
  
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--   Hactoberfest badges  -->
-
-<h1>🏆 Hacktoberfest Digital Badges: </h1>
+<details>
+<summary><h2>🏆 Hacktoberfest Digital Badges: </h2></summary>
 
 [![Screenshot 2024-11-09 170659](https://github.com/user-attachments/assets/c6d490bd-3a81-42f2-8949-30502e1274b5)](https://www.holopin.io/@himanshukumar025#)
+</details>
