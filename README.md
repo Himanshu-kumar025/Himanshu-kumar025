@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--Languages and techniology info-->
 <details>
-<summary>🚀Languages, Tools and Technologies<summary>
+<summary>🚀Languages, Tools and Technologies</summary>
    
 <div align="center">
 	
