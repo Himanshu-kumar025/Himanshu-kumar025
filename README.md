@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 <tr>
 	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=bootstrap,express&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark"></td>
 </tr>
 
 <tr>
