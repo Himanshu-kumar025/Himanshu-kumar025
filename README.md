@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Full+Stack+Web+Developer;Open+Source+Contributor" align="right" osition="absolute" right="20px">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Web+Developer;Open+Source+Contributor" align="center" osition="" right="10px">
 </div>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
