@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=4493F8&center=true&vCenter=true&width=500&height=100&lines=I'm+Himanshu+Kumar; Web+Developer  ;Open+Source+contributor" alt="Typing Animation">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Full+Stack+Web+Developer;Open+Source+Contributor" align="right" osition="absolute" right="20px">
 </div>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
